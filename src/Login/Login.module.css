@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(242, 251, 252);
+    margin-top: 0px;
+}
+
+.userName{
+    width: 200px;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+.LoginBtn{
+    margin-left: 25%;
+    margin-top: 3%;
+    font-size: small;
+    margin-bottom: 5%;
+}
+
+.loginBox{
+    background-color: white;
+    width: 25%;
+    padding-top: 1%;
+    margin-left: 35%;
+    padding-left: 5%;
+    border: 2px solid white;
+   
+}
+
+.errorAlert{
+    margin-right: 10%;
+    font-size: small;
+}
+
+.labelUsername{
+    margin-top: 1%;
+}

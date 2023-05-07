@@ -1,0 +1,18 @@
+.sideBarDivNotCollapsed{
+   height: 100vh;
+   width: 5%;
+    background-color: rgba(99, 107, 197, 0.488);
+    transition: 0.4s all ease-out;
+}
+
+.sideBarDivCollapsed{
+    height: 100vh;
+    width: 3%;
+     background-color: grey;
+     transition: 0.4s all ease-in;
+ }
+
+.h1{
+    margin-left: 50%;
+    background-color: darkgreen
+}
