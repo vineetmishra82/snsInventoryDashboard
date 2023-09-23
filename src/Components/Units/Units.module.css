@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.mainBox{
+    margin-left: 42%;
+    margin-top: 1%;
+    font-size: xx-large;
+    font-style: initial;
+    color: rgb(41, 44, 232);
+}
+
+.UnitBox{
+    margin-left: 40%;
+    margin-top: 2%;
+    font-size: smaller;
+    font-style: initial;
+    color: rgb(1, 52, 7);
+}
+
+.CategoriesBox{
+    margin-left: 35%;
+    margin-top: 5%;
+    font-size: smaller;
+    font-style: initial;
+    color: rgb(77, 1, 57);
+}
+
+.Unitsdropdown{
+margin-left: 1%;
+border: 1px solid rgb(5, 2, 41);
+margin-right: 1%;
+width: 150px;
+font-size: small;
+}
+
+.Categoriesdropdown{
+    margin-left: 1%;
+    border: 1px solid rgb(5, 2, 41);
+    margin-right: 1%;
+    width: 200px;
+    font-size: small;
+}
+.optionValue{
+font-size: small;
+}
+
+.newUnit {
+    margin-left: 39.5%;
+    font-size: smaller;
+}
+
+.newCategory{
+    margin-left: 35%;
+    font-size: small;
+}
+
+
+.newUnitTextBox{
+    margin-left: 1%;
+    border: 1px solid rgb(5, 2, 41);
+    margin-top: 2%;
+    margin-right: 1%;
+    width: 150px;
+    font-size: small;
+}
+
+.newCategoryTextBox{
+    margin-left: 1%;
+    border: 1px solid rgb(5, 2, 41);
+    margin-top: 2%;
+    margin-right: 1%;
+    width: 200px;
+    font-size: small;
+}
+
+.updateUnitTextBox{
+    margin-left: 1.5%;
+    border: 1px solid rgb(5, 2, 41);
+    margin-top: 2%;
+    margin-right: 1%;
+    width: 150px;
+    font-size: small;
+}
+
+.updateCategoryTextBox{
+    margin-left: 1.5%;
+    border: 1px solid rgb(5, 2, 41);
+    margin-top: 2%;
+    margin-right: 1%;
+    width: 200px;
+    font-size: small;
+}
+
+.loading{
+    margin-left: 45%;
+    margin-top: 20%;
+}

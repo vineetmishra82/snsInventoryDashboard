@@ -1,15 +1,14 @@
-#topBar{
-    width: 80%;
-    background-color:transparent;
-   margin-left: 20%;
-   height: 30%;
-   margin-top: 0px;
+.topBar{
+  
+    background-color:rgb(128, 128, 128);
    
 }
 
 #logo{
-    height: 75%;
-    width: 25%;
-    margin-left: 20%;
-     
+    height: 2%;
+    width: 1%;     
+}
+
+.logoutBtn:hover {
+    cursor:grab;
 }

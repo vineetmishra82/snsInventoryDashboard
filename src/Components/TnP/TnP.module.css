@@ -1,0 +1,112 @@
+.headerBox{
+    margin-left: 42%;
+    margin-top: 1%;
+    font-size: xx-large;
+    font-style: initial;
+    color: rgb(11, 11, 132);
+}
+
+.headers{
+    margin-left: 38%;
+    font-size: x-large;
+    margin-bottom: 2%;
+    font-weight: bold;
+}
+
+.headers1{
+    margin-left: 40%;
+    font-size: x-large;
+    margin-bottom: 2%;
+    font-weight: bold;
+}
+
+.createTnPBox{
+    margin-top: 3%;
+   
+}
+
+.TnPCreateRow{
+margin-left: 1%;
+font-size: small;
+display: inline-block;
+width: 100%;
+}
+
+.TnPSubmitRow{
+margin-left: 10%;
+margin-top: 2%;
+font-size: small;
+display: inline-block;
+width: 100%;
+}
+
+.InputTextBox{
+    margin-left: 1%;
+    border: 1px solid black;
+    padding-left : 0.5%;
+    display: inline-block;
+}
+
+.optionValue{
+margin-left: 1%;
+}
+
+.categoryDropdown{
+    margin-left: 1%;
+    border: 1px solid rgb(5, 2, 41);
+    margin-right: 1%;
+    width: 150px;
+    font-size: small;
+}
+.categoryLabel{
+    margin-left: 3%;
+}
+
+.loading{
+    margin-left: 45%;
+    margin-top: 20%;
+}
+
+.uploadIcon{
+height: 30px;
+display: inline-block;
+margin-left: 2%;
+cursor: pointer;
+
+}
+.inputFile{
+    visibility: hidden;
+    display: none;
+}
+
+.uploadFileText{
+font-size: small;
+color: blue;
+display: inline-block;
+
+cursor: pointer;
+}
+
+.ExcelFileText{
+font-size: small;
+color: green;
+display: inline-block;
+margin-left: 0.5%;
+cursor: pointer;
+}
+
+.submitBtn{
+    margin-left: 5%;
+}
+
+.QtyTxt{
+color: blue;
+font-size: medium;
+margin-right: 2%;
+margin-left: 1%;
+}
+.downloadMasterButton{
+    margin-top: 2%;
+    margin-left: 38%;
+    font-size: xx-large;
+}
